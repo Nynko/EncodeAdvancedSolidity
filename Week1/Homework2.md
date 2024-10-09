@@ -26,6 +26,7 @@ Could this be used maliciously in an exploit, if so, how would that be done ?
 
 ## Extra Question:
 Here is an example on how we could "exploit" this by misleading users:
+
 Open in remix: 
 https://gist.github.com/Nynko/4d26cc93e3efcd71be105d331cc5a8ca
 
