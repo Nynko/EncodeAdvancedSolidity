@@ -28,6 +28,7 @@ Could this be used maliciously in an exploit, if so, how would that be done ?
 Here is an example on how we could "exploit" this by misleading users:
 
 Open in remix: 
-https://gist.github.com/Nynko/4d26cc93e3efcd71be105d331cc5a8ca
+https://remix.ethereum.org/#version=soljson-v0.8.26+commit.8a97fa7a.js&optimize=false&runs=200&gist=aab1efb4a49f813cfcfed6cf61ce97ab
+(https://gist.github.com/Nynko/aab1efb4a49f813cfcfed6cf61ce97ab)
 
 It may not be the expected answer but seems to be an exploit. 
